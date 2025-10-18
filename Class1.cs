@@ -1,4 +1,4 @@
-﻿namespace BranchApp.Application
+﻿namespace BranchApp.Domain
 {
     public class Class1
     {
